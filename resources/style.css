@@ -4,7 +4,7 @@
   position: relative;
   width: 200px;
   height: 200px;
-  background-color: rgba(129, 15, 15, 0.7);
+  background-color: rgba(255, 0, 0);
   transition: background-color .1s;
 }
 #test:hover {
@@ -16,7 +16,7 @@
   content: '';
   height: 100%;
   width: 100%;
-  background: linear-gradient(45deg, rgba(129, 15, 15, 0.9), rgba(129, 15, 15, 0.7), rgba(129, 15, 15, 0.9));
+  background: linear-gradient(45deg, rgba(255, 0, 0, 0.9), rgba(250, 0, 0, 0.7), rgba(0, 0, 0));
   background-size: 200% 200%;
   background-position: 0% 100%;
   animation-name: test_hover;
